@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.6](https://github.com/F3-Nation/f3-nation/compare/pkg-ui@0.1.5...pkg-ui@0.1.6) (2026-09-13)
+
+
+### Bug Fixes
+
+* **ui:** import omit from lodash/omit in radio-group ([#1004](https://github.com/F3-Nation/f3-nation/issues/1004)) ([9a42166](https://github.com/F3-Nation/f3-nation/commit/9a4216674bad9b0a316bdbc53d19c00dc6eb8899))
+
 ## [0.1.5](https://github.com/F3-Nation/f3-nation/compare/pkg-ui@0.1.4...pkg-ui@0.1.5) (2026-09-10)
 
 

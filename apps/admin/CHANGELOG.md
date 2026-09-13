@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.5.3](https://github.com/F3-Nation/f3-nation/compare/admin@2.5.2...admin@2.5.3) (2026-09-13)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @acme/ui bumped to 0.1.6
+
 ## [2.5.2](https://github.com/F3-Nation/f3-nation/compare/admin@2.5.1...admin@2.5.2) (2026-09-12)
 
 
